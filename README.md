@@ -2,9 +2,9 @@
 
 ![image.png](assets/image.png)
 
-#### [Latest repo on Enterprise Angular Monorepo](https://github.com/majidhajric/web-shop)
+[Enterprise Angular Monorepo](https://github.com/majidhajric/web-shop)
 
-#### [Previous Enterprise Spring Cloud](https://github.com/majidhajric/spring-cloud-examples)
+[Spring Cloud](https://github.com/majidhajric/spring-cloud-examples)
 
 ## INTRODUCTION
 
@@ -21,10 +21,7 @@ Strongthirst for knowledge. Constantly improving skills by learning anddoing.
 - Relational databases and SQL, JPA / Hibernate, MongoDB
 - Maven, Git, Docker, Shell, Jenkins
 - HTML, CSS, JavaScript
-- Angular	Framework, NgRx, Nx --fix
-
----
-
+- Angular	Framework, NgRx, Nx
 
 ## WORKEXPERIENCE
 
