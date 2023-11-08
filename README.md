@@ -23,8 +23,4 @@ I'm a passionate software developer based in Doboj, Bosnia and Herzegovina. With
 
 - [oauth2-and-openid-server](https://github.com/majidhajric/oauth2-and-openid-server)
 
-## 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=majidhajric)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to explore my repositories and connect with me. Let's collaborate and build amazing software together! 🖥️
