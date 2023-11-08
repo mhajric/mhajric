@@ -1,0 +1,17 @@
+{
+  "name": "majidhajric",
+  "version": "1.0.0",
+  "description": "I'm a passionate software developer based in Doboj, Bosnia and Herzegovina. With over 4 years of experience, I specialize in Java and the Spring Framework.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./input.css -o ./style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "@material-tailwind/html": "^2.0.0"
+  }
+}
